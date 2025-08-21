@@ -1,0 +1,1 @@
+<br>A simple and interactive Restaurant Web Application built using HTML, CSS</br>. <br>This project showcases a modern restaurant website with a Home Page, Menu Section, About Us, Contact Page, and a Responsive Design that works on all devices</br>
